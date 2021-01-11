@@ -1,3 +1,5 @@
 sw.js.map
 workbox-8e63606b.js
 workbox-8e63606b.js.map
+/node_modules
+yarn.lock
