@@ -23,5 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 yarn.lock
 .eslintcache
+*map
+workbox-bf*
 
 
