@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":[],"mappings":"0GAAA,4B","file":"static/js/main.58ad6b21.chunk.js","sourcesContent":["import React from 'react';\r\nimport ReactDOM from 'react-dom';\r\nimport './index.css';\r\nimport './base.css'\r\n\r\n"],"sourceRoot":""}
